@@ -1,4 +1,6 @@
 .div {
-    background-color: chartreuse;
-    color: chocolate;
+  background-color: chartreuse;
+  color: chocolate;
+  margin: 10px;
+  padding: 5px;
 }
